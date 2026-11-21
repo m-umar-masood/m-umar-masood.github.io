@@ -364,6 +364,7 @@
   "photo": true,
   "papers": [
     {
+      "id": "W7215057020",
       "title": "A Hybrid XGBoost-CNN Framework for Robust SOP Anomaly Detection in Optical Networks",
       "authors": [
         "Gulmina Malik",
@@ -461,6 +462,7 @@
       ]
     },
     {
+      "id": "W7156030380",
       "title": "AI-driven converged metro-access optical network-as-a-service with point-to-multipoint coherent optics for 6G X-Hauling",
       "authors": [
         "Sanwal Zeb",
@@ -576,6 +578,7 @@
       ]
     },
     {
+      "id": "W7217752313",
       "title": "Access-Aware Launch Power Optimization for RAN Fronthaul in Converged Metro-Access Optical Networks",
       "authors": [
         "Ahtisham Ali",
@@ -643,6 +646,7 @@
       ]
     },
     {
+      "id": "W7217761452",
       "title": "Assessing Techno-Economic Gains of Next-Generation Coherent Point-to-Multipoint Data Center Interconnects",
       "authors": [
         "Sanwal Zeb",
@@ -726,6 +730,7 @@
       ]
     },
     {
+      "id": "W7171875337",
       "title": "Benefits of Selective Hollow-Core Fiber Deployment for 6G X-Haul in Converged Metro-Access Networks",
       "authors": [
         "Ahtisham Ali",
@@ -839,6 +844,7 @@
       ]
     },
     {
+      "id": "W7216666818",
       "title": "Energy-Aware RAN x-Haul over ONaaS-Enabled Metro-Access Networks",
       "authors": [
         "Ahtisham Ali",
@@ -910,6 +916,7 @@
       ]
     },
     {
+      "id": "W7163165968",
       "title": "Evaluating Capacity Scaling Strategies for Cost-Efficient Optical Network Evolution",
       "authors": [
         "Muhammad Umar Masood",
@@ -963,6 +970,7 @@
       ]
     },
     {
+      "id": "W7124993576",
       "title": "Failure Prediction in Optical Transport Networks Through the Integration of Digital Twins and Deep Learning",
       "authors": [
         "Mashboob Cheruvakkadu Mohamed",
@@ -1066,6 +1074,7 @@
       ]
     },
     {
+      "id": "W7236504666",
       "title": "Integrated Sensing and Communication for Real-Time Detection and Localization in Live Production Metro Networks",
       "authors": [
         "Gulmina Malik",
@@ -1155,6 +1164,7 @@
       ]
     },
     {
+      "id": "W7168690555",
       "title": "LLM-Assisted Design and Analytics of Next-Generation Optical Transport Networks",
       "authors": [
         "Imran Chowdhury Dipto",
@@ -1234,6 +1244,7 @@
       ]
     },
     {
+      "id": "W7217554524",
       "title": "LLM-Assisted Digital Twin for Next Generation Optical Network-as-a-Service (ONaaS)",
       "authors": [
         "Imran Chowdhury Dipto",
@@ -1307,6 +1318,7 @@
       ]
     },
     {
+      "id": "W7216940440",
       "title": "LLM-Driven Optical Network-as-a-Service (ONaaS) for Next Generation Metro-Access Convergence",
       "authors": [
         "Imran Chowdhury Dipto",
@@ -1386,6 +1398,7 @@
       ]
     },
     {
+      "id": "W7215093739",
       "title": "LLM-Orchestrated Digital Twin for Smart Optical Network Operations",
       "authors": [
         "Sanwal Zeb",
@@ -1453,6 +1466,7 @@
       ]
     },
     {
+      "id": "W7218253484",
       "title": "ML-Driven QoT Estimation for Adaptive P2MP Optical Network-as-a-Service in 6G X-Haul",
       "authors": [
         "Sanwal Zeb",
@@ -1526,6 +1540,7 @@
       ]
     },
     {
+      "id": "W7140578305",
       "title": "Machine Learning-Based Detection and Classification of Overlapping Fiber Anomalies",
       "authors": [
         "Gulmina Malik",
@@ -1629,6 +1644,7 @@
       ]
     },
     {
+      "id": "S9fc050c4e386",
       "title": "Multi-Agent Digital Twin for SLA Management in Coherent P2MP Metro-Access Networks",
       "authors": [
         "S Zeb",
@@ -1656,6 +1672,7 @@
       "aff": []
     },
     {
+      "id": "W7215067415",
       "title": "Optimized Distributed Unit (DU) Placement under Physical Constraints for 6G x-Haul",
       "authors": [
         "Ahtisham Ali",
@@ -1733,6 +1750,7 @@
       ]
     },
     {
+      "id": "W7171820047",
       "title": "Real-Time Vibration Anomaly Detection in Operational Metropolitan Optical Networks Using Machine Learning",
       "authors": [
         "Gulmina Malik",
@@ -1836,6 +1854,7 @@
       ]
     },
     {
+      "id": "W7150777341",
       "title": "Reinforcement Learning to Enhance Digital Twin-Based EDFA Fault Prediction in Optical Networks",
       "authors": [
         "Mashboob Cheruvakkadu Mohamed",
@@ -1945,6 +1964,7 @@
       ]
     },
     {
+      "id": "W7218299823",
       "title": "Stability-Aware Subcarrier Allocation in Filterless P2MP Metro-Access Networks",
       "authors": [
         "Sanwal Zeb",
@@ -2016,6 +2036,7 @@
       ]
     },
     {
+      "id": "W7217877916",
       "title": "State-Aware Subcarrier Allocation for SDN-Controlled Filterless Coherent P2MP Network",
       "authors": [
         "Sanwal Zeb",
@@ -2093,6 +2114,7 @@
       ]
     },
     {
+      "id": "W7123357534",
       "title": "Statistical Analysis of End-to-End Route Feasibility in Converged Metro–Access Optical Networks",
       "authors": [
         "Ahtisham Ali",
@@ -2160,6 +2182,7 @@
       ]
     },
     {
+      "id": "W7217152159",
       "title": "Statistical Capacity Analysis of Converged Metro-Access Optical Networks for 6G Any-Haul",
       "authors": [
         "Ahtisham Ali",
@@ -2239,6 +2262,7 @@
       ]
     },
     {
+      "id": "W7225852272",
       "title": "Statistical Capacity Evaluation of Converged Metro-Access Optical Networks for 6G x-Haul",
       "authors": [
         "ahtisham ali",
@@ -2324,6 +2348,7 @@
       ]
     },
     {
+      "id": "W7169092578",
       "title": "Sustainable 6G Optical Any-Haul with Coherent Pluggables in Converged Metro-Access",
       "authors": [
         "Ahtisham Ali",
@@ -2437,6 +2462,7 @@
       ]
     },
     {
+      "id": "W7104037654",
       "title": "A Comparative Study of Capacity Scaling Strategies for Future Optical Transport Networks",
       "authors": [
         "Muhammad Umar Masood",
@@ -2508,6 +2534,7 @@
       ]
     },
     {
+      "id": "W4416677455",
       "title": "AI-Driven Fault Prediction and Restoration Leveraging Real-Time SOP Monitoring",
       "authors": [
         "Gulmina Malik",
@@ -2611,6 +2638,7 @@
       ]
     },
     {
+      "id": "W4413513685",
       "title": "Capacity Assessment in Converged Metro-Access Optical Networks for end-to-end RAN Fronthaul",
       "authors": [
         "Ahtisham Ali",
@@ -2676,6 +2704,7 @@
       ]
     },
     {
+      "id": "W4413559180",
       "title": "Demonstration of Real-Time AI-Enabled Smart Fault Detection using State-of-Polarization Monitoring",
       "authors": [
         "Gulmina Malik",
@@ -2786,6 +2815,7 @@
       ]
     },
     {
+      "id": "W4416677546",
       "title": "Digital Twin-Integrated Binary Classifier ML Model for EDFA Failure Prediction",
       "authors": [
         "Mashboob Cheruvakkadu Mohamed",
@@ -2883,6 +2913,7 @@
       ]
     },
     {
+      "id": "W4416249558",
       "title": "Evaluating Metro-Access Optical Networks as-a-Service for Flexible RAN X-haul",
       "authors": [
         "Ahtisham Ali",
@@ -2988,6 +3019,7 @@
       ]
     },
     {
+      "id": "W4413319791",
       "title": "Intelligent Detection of Overlapping Fiber Anomalies in Optical Networks Using Machine Learning",
       "authors": [
         "Gulmina Malik",
@@ -3085,6 +3117,7 @@
       ]
     },
     {
+      "id": "W7137222058",
       "title": "Leveraging Digital Twins to Build Comprehensive Network Failure Databases for Predictive Machine Learning in Optical Transport Networks",
       "authors": [
         "Mashboob Cheruvakkadu Mohamed",
@@ -3188,6 +3221,7 @@
       ]
     },
     {
+      "id": "W4413967519",
       "title": "Machine Learning Agents Leveraging Digital Twins for Failure Prediction in Optical Networks",
       "authors": [
         "Mashboob Cheruvakkadu Mohamed",
@@ -3291,6 +3325,7 @@
       ]
     },
     {
+      "id": "W4413967760",
       "title": "Machine Learning for Predictive Multi-Event Detection in Fiber Optic Systems",
       "authors": [
         "Gulmina Malik",
@@ -3382,6 +3417,7 @@
       ]
     },
     {
+      "id": "W4411337894",
       "title": "Network Data Based Transfer Learning Failure Prediction Agent Pre-Trained Using Digital Twin",
       "authors": [
         "Mashboob Cheruvakkadu Mohamed",
@@ -3485,6 +3521,7 @@
       ]
     },
     {
+      "id": "W4416677666",
       "title": "Optimizing RAN X-Haul Performance Through Targeted Hollow-Core Fiber Deployment in Converged Metro-Access Networks",
       "authors": [
         "Ahtisham Ali",
@@ -3598,6 +3635,7 @@
       ]
     },
     {
+      "id": "W4411498779",
       "title": "Resilient Anomaly Detection in Fiber-Optic Networks: A Machine Learning Framework for Multi-Threat Identification Using State-of-Polarization Monitoring",
       "authors": [
         "Gulmina Malik",
@@ -3695,6 +3733,7 @@
       ]
     },
     {
+      "id": "W7217414321",
       "title": "SOP-Based Anomaly Detection Leveraging Machine Learning for Proactive Optical Restoration",
       "authors": [
         "Gulmina Malik",
@@ -3790,6 +3829,7 @@
       ]
     },
     {
+      "id": "W4413319646",
       "title": "Statistical Evaluation of Lightpath Feasibility in Converged Optical Metro-Access Networks",
       "authors": [
         "Ahtisham Ali",
@@ -3855,6 +3895,7 @@
       ]
     },
     {
+      "id": "W7123357962",
       "title": "Statistical Route Feasibility in Metro-Access Optical Networks for Next-Generation RAN X-Haul",
       "authors": [
         "Ahtisham Ali",
@@ -3920,6 +3961,7 @@
       ]
     },
     {
+      "id": "W4402124702",
       "title": "Impact of Waveband and Wavelength Switching in the Next-Generation Optical Networks",
       "authors": [
         "Muhammad Umar Masood",
@@ -4003,6 +4045,7 @@
       ]
     },
     {
+      "id": "W4408324501",
       "title": "Networking Study of Waveband/Wavelength Switching for Multi-Granular and Multi-Band Optical Networks",
       "authors": [
         "Muhammad Umar Masood",
@@ -4080,6 +4123,7 @@
       ]
     },
     {
+      "id": "W7216831075",
       "title": "Scaling Optical Transport using Multi-band Photonic Integrated Switching Systems",
       "authors": [
         "Muhammad Umar Masood"
@@ -4111,6 +4155,7 @@
       ]
     },
     {
+      "id": "W4391243513",
       "title": "Waveband selective switch: a network analysis for advanced optical transport networks in 6G and beyond technologies",
       "authors": [
         "Muhammad Umar Masood",
@@ -4194,6 +4239,7 @@
       ]
     },
     {
+      "id": "W4385655762",
       "title": "A Comprehensive Network Performance Analysis of Multi-band Photonic Integrated WSS for 400G and 800G Transmission",
       "authors": [
         "Muhammad Umar Masood",
@@ -4271,6 +4317,7 @@
       ]
     },
     {
+      "id": "W4385315227",
       "title": "A Machine Learning-Based Model for Characterizing Stationary-and-Dynamic Behavior of VCSEL",
       "authors": [
         "Ihtesham Khan",
@@ -4350,6 +4397,7 @@
       ]
     },
     {
+      "id": "W7217876971",
       "title": "Automated model for characterization of VCSEL circuit-level parameters using machine learning",
       "authors": [
         "Andrea Marchisio",
@@ -4429,6 +4477,7 @@
       ]
     },
     {
+      "id": "W4387299413",
       "title": "Design and performance assessment of modular multi-band photonic-integrated WSS",
       "authors": [
         "Lorenzo Tunesi",
@@ -4500,6 +4549,7 @@
       ]
     },
     {
+      "id": "W4388214459",
       "title": "Integrated Multi-Band WSS: From Design to Performance Evaluation",
       "authors": [
         "Lorenzo Tunesi",
@@ -4567,6 +4617,7 @@
       ]
     },
     {
+      "id": "W4385655854",
       "title": "Iterative Transfer Learning Approach for QoT Prediction of Lightpath in Optical Networks",
       "authors": [
         "Hafsa Tariq",
@@ -4634,6 +4685,7 @@
       ]
     },
     {
+      "id": "W4385655896",
       "title": "Knowledge Distillation-Based Compression Model for QoT Estimation of an Unestablished Lightpaths",
       "authors": [
         "Fehmida Usmani",
@@ -4695,6 +4747,7 @@
       ]
     },
     {
+      "id": "W4385356881",
       "title": "Machine Learning Aided Prediction of Fabrication Uncertainties in Integrated Multi-Ring Filters",
       "authors": [
         "Lorenzo Tunesi",
@@ -4774,6 +4827,7 @@
       ]
     },
     {
+      "id": "W4386104084",
       "title": "Multi-band Photonic Integrated WSS for 800G Optical Data Center Interconnect Systems",
       "authors": [
         "Muhammad Umar Masood",
@@ -4849,6 +4903,7 @@
       ]
     },
     {
+      "id": "W4388214375",
       "title": "Multiband Photonic Integrated WSS Beyond 1Tb/s Data Center Interconnect Technology",
       "authors": [
         "Muhammad Umar Masood",
@@ -4926,6 +4981,7 @@
       ]
     },
     {
+      "id": "W4324323386",
       "title": "Network performance analysis of a PIC-based reconfigurable add-drop multiplexer for multiband applications",
       "authors": [
         "Muhammad Umar Masood",
@@ -5003,6 +5059,7 @@
       ]
     },
     {
+      "id": "W4382198018",
       "title": "Networking assessment of ROADM architecture based on a photonics integrated WSS for 800G multi-band optical transport",
       "authors": [
         "Muhammad Umar Masood",
@@ -5086,6 +5143,7 @@
       ]
     },
     {
+      "id": "W4318154204",
       "title": "Photonic-integrated wavelength selective switch for S+C+L applications",
       "authors": [
         "Lorenzo Tunesi",
@@ -5157,6 +5215,7 @@
       ]
     },
     {
+      "id": "W4318154217",
       "title": "Two-step machine learning assisted extraction of VCSEL parameters",
       "authors": [
         "Ihtesham Khan",
@@ -5230,6 +5289,7 @@
       ]
     },
     {
+      "id": "W4364297002",
       "title": "Autonomous Data-driven Model for Extraction of VCSEL Circuit-level Parameters",
       "authors": [
         "Ihtesham Khan",
@@ -5301,6 +5361,7 @@
       ]
     },
     {
+      "id": "W4311591821",
       "title": "Machine Learning Assisted Extraction of Vertical Cavity Surface Emitting Lasers Parameters",
       "authors": [
         "Ihtesham Khan",
@@ -5374,6 +5435,7 @@
       ]
     },
     {
+      "id": "W4312960482",
       "title": "Machine Learning aided characterization of multi-stage integrated ring resonator filters",
       "authors": [
         "Ihtesham Khan",
@@ -5445,6 +5507,7 @@
       ]
     },
     {
+      "id": "W4308089066",
       "title": "Machine Learning-based Model for Defining Circuit-level Parameters of VCSEL",
       "authors": [
         "Ihtesham Khan",
@@ -5518,6 +5581,7 @@
       ]
     },
     {
+      "id": "W4301253492",
       "title": "Modular Photonic-Integrated Device for Multi-Band Wavelength-Selective Switching",
       "authors": [
         "Lorenzo Tunesi",
@@ -5589,6 +5653,7 @@
       ]
     },
     {
+      "id": "S59b081a09c51",
       "title": "Modular and scalable photonic integrated multi-band wavelength-selective switch",
       "authors": [
         "L Tunesi",
@@ -5612,6 +5677,7 @@
       "aff": []
     },
     {
+      "id": "W4364297035",
       "title": "Multi-labeled Random-forest Enabled Softwarized Management for Photonics Switching Systems",
       "authors": [
         "Ihtesham Khan",
@@ -5703,6 +5769,7 @@
       ]
     },
     {
+      "id": "W4315630253",
       "title": "Network Performance of ROADM Architecture Enabled by Novel Wideband-integrated WSS",
       "authors": [
         "Muhammad Umar Masood",
@@ -5780,6 +5847,7 @@
       ]
     },
     {
+      "id": "W4311592265",
       "title": "Network Traffic Analysis of Modular Multiband Integrated WSS based ROADMs",
       "authors": [
         "Muhammad Umar Masood",
@@ -5857,6 +5925,7 @@
       ]
     },
     {
+      "id": "W4308088932",
       "title": "Networking Analysis of Photonics Integrated Multiband WSS Based ROADM Architecture",
       "authors": [
         "Muhammad Umar Masood",
@@ -5940,6 +6009,7 @@
       ]
     },
     {
+      "id": "W4292873583",
       "title": "Novel Design and Operation of Photonic- integrated WSS for Ultra-wideband Applications",
       "authors": [
         "Lorenzo Tunesi",
@@ -6009,6 +6079,7 @@
       ]
     },
     {
+      "id": "W4213176117",
       "title": "Optimal control of Beneš optical networks assisted by machine learning",
       "authors": [
         "Ihtesham Khan",
@@ -6082,6 +6153,7 @@
       ]
     },
     {
+      "id": "W4292862454",
       "title": "Performance Analysis of Novel Multi-band Photonic-integrated WSS Operated on 400ZR",
       "authors": [
         "Ihtesham Khan",
@@ -6151,6 +6223,7 @@
       ]
     },
     {
+      "id": "W4364304975",
       "title": "Performance Analysis of Transfer-learning Approaches for QoT Estimation of Network Operating with 400ZR",
       "authors": [
         "Fehmida Usmani",
@@ -6220,6 +6293,7 @@
       ]
     },
     {
+      "id": "W4206716530",
       "title": "Performance evaluation of data-driven techniques for the softwarized and agnostic management of an N×N photonic switch",
       "authors": [
         "Ihtesham Khan",
@@ -6291,6 +6365,7 @@
       ]
     },
     {
+      "id": "W4364304789",
       "title": "Photonics Integrated Multiband WSS Based ROADM Architecture: A Networking Analysis",
       "authors": [
         "Muhammad Umar Masood",
@@ -6368,6 +6443,7 @@
       ]
     },
     {
+      "id": "W4292862758",
       "title": "QoT- Estimation Assisted by Transfer learning in Extended C-band Network Operating on 400ZR",
       "authors": [
         "Fehmida Usmani",
@@ -6433,6 +6509,7 @@
       ]
     },
     {
+      "id": "W4281863206",
       "title": "Transfer learning Aided QoT Computation in Network Operating with the 400ZR Standard",
       "authors": [
         "Fehmida Usmani",
@@ -6500,6 +6577,7 @@
       ]
     },
     {
+      "id": "W3194858392",
       "title": "A Data-Driven Approach to Autonomous Management of Photonic Switching System",
       "authors": [
         "Ihtesham Khan",
@@ -6569,6 +6647,7 @@
       ]
     },
     {
+      "id": "W3211417830",
       "title": "A Neural Network-Based Automatized Management of N ×N Integrated Optical Switches",
       "authors": [
         "Ihtesham Khan",
@@ -6640,6 +6719,7 @@
       ]
     },
     {
+      "id": "W3167616787",
       "title": "Automatic Management of N × N Photonic Switch Powered by Machine Learning in Software-Defined Optical Transport",
       "authors": [
         "Ihtesham Khan",
@@ -6713,6 +6793,7 @@
       ]
     },
     {
+      "id": "W4206517361",
       "title": "Autonomous Control Model for C+L Multi-band Photonic Switch System using Machine Learning",
       "authors": [
         "Ihtesham Khan",
@@ -6782,6 +6863,7 @@
       ]
     },
     {
+      "id": "W3184524992",
       "title": "Convolutional neural network for quality of transmission prediction of unestablished lightpaths",
       "authors": [
         "Fehmida Usmani",
@@ -6849,6 +6931,7 @@
       ]
     },
     {
+      "id": "W4200185896",
       "title": "Cross-feature trained machine learning models for QoT-estimation in optical networks",
       "authors": [
         "Fehmida Usmani",
@@ -6934,6 +7017,7 @@
       ]
     },
     {
+      "id": "W3197180938",
       "title": "Evaluating Cross- feature Trained Machine Learning Models for Estimating QoT of Unestablished Lightpaths",
       "authors": [
         "Fehmida Usmani",
@@ -7019,6 +7103,7 @@
       ]
     },
     {
+      "id": "W3186275074",
       "title": "Impairment-aware Virtual Network Embedding Using Time Domain Hybrid Modulation formats in Optical Networks",
       "authors": [
         "Shahzad Farooq",
@@ -7090,6 +7175,7 @@
       ]
     },
     {
+      "id": "W3119734556",
       "title": "Lightpath QoT computation in optical networks assisted by transfer learning",
       "authors": [
         "Ihtesham Khan",
@@ -7151,6 +7237,7 @@
       ]
     },
     {
+      "id": "W3191808093",
       "title": "Machine Learning Assisted Management of Photonic Switching Systems",
       "authors": [
         "Ihtesham Khan",
@@ -7218,6 +7305,7 @@
       ]
     },
     {
+      "id": "W3214705797",
       "title": "Machine Learning Assisted Model of QoT Penalties for Photonics Switching Systems",
       "authors": [
         "Ihtesham Khan",
@@ -7289,6 +7377,7 @@
       ]
     },
     {
+      "id": "W4210785012",
       "title": "Machine Learning Driven Model for Software Management of Photonics Switching Systems",
       "authors": [
         "Ihtesham Khan",
@@ -7362,6 +7451,7 @@
       ]
     },
     {
+      "id": "W4205514514",
       "title": "Machine learning Assisted Accurate Estimation of QoT Impairments of Photonics Switching System on 400ZR",
       "authors": [
         "Ihtesham Khan",
@@ -7431,6 +7521,7 @@
       ]
     },
     {
+      "id": "W3135518438",
       "title": "Machine-learning-aided abstraction of photonic integrated circuits in software-defined optical transport",
       "authors": [
         "Ihtesham Khan",
@@ -7514,6 +7605,7 @@
       ]
     },
     {
+      "id": "W3196732239",
       "title": "Modeling Off-line Routing and Spectrum Allocation Problem in Elastic Optical Network",
       "authors": [
         "Shahzad Alam",
@@ -7579,6 +7671,7 @@
       ]
     },
     {
+      "id": "W4200367076",
       "title": "Optimized management of ultra-wideband photonics switching systems assisted by machine learning",
       "authors": [
         "Ihtesham Khan",
@@ -7650,6 +7743,7 @@
       ]
     },
     {
+      "id": "W3193686549",
       "title": "Routing and Spectrum Allocation Heuristic for Sliced Elastic Optical Network System",
       "authors": [
         "Shahzad Alam",
@@ -7715,6 +7809,7 @@
       ]
     },
     {
+      "id": "W3214114434",
       "title": "Softwarized and Autonomous Management of Photonic Switching Systems Using Machine Learning",
       "authors": [
         "Ihtesham Khan",
@@ -7786,6 +7881,7 @@
       ]
     },
     {
+      "id": "W3098378623",
       "title": "Effectiveness of Machine Learning in Assessing QoT Impairments of Photonics Integrated Circuits to Reduce System Margin",
       "authors": [
         "Ihtesham Khan",
@@ -7875,6 +7971,7 @@
       ]
     },
     {
+      "id": "W3001739908",
       "title": "Impact of data center placement on the power consumption of flexible-grid optical networks",
       "authors": [
         "Ihtesham Khan",
@@ -7940,6 +8037,7 @@
       ]
     },
     {
+      "id": "W3098740240",
       "title": "Machine learning assisted abstraction of photonic integrated circuits in fully disaggregated transparent optical networks",
       "authors": [
         "Ihtesham Khan",
@@ -8029,6 +8127,7 @@
       ]
     },
     {
+      "id": "W3049510979",
       "title": "Smart Provisioning of Sliceable Bandwidth Variable Transponders in Elastic Optical Networks",
       "authors": [
         "Muhammad Umar Masood",
@@ -8082,6 +8181,7 @@
       ]
     },
     {
+      "id": "Sc4b34c5a132c",
       "title": "Performance Analysis of Sliceable Bandwidth Variable Transponders (SBVTs) for EON",
       "authors": [
         "MU Masood"
