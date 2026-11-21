@@ -172,4 +172,4 @@ Optical Transport, Multi-band, ROADM/WSS, Network Planning, SOP Monitoring, Fibe
 - [Smart Provisioning of Sliceable Bandwidth Variable Transponders in Elastic Optical Networks](https://doi.org/10.1109/netsoft48620.2020.9165462). *IEEE NetSoft*, 2020.
 - Performance Analysis of Sliceable Bandwidth Variable Transponders (SBVTs) for EON. *Theses*, 2017.
 
-_Updated 2026-11-21. Made with ActaDesk.app._
+_Updated 2026-11-22. Made with ActaDesk.app._
