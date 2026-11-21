@@ -385,14 +385,16 @@
       "doi": "10.1109/icton71309.2026.11704881",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "polarization state",
         "XGBoost",
-        "1D convolutional neural network",
-        "Stokes parameters",
-        "optical network monitoring"
+        "1D convolutional neural network"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "polarization state",
         "XGBoost",
@@ -487,14 +489,17 @@
       "citations": 1,
       "keywords": [
         "Artificial intelligence",
+        "LLM",
+        "Optical Network",
+        "DSCM",
         "Machine learning",
-        "digital subcarrier multiplexing",
-        "random forest",
-        "techno-economic analysis",
-        "energy conservation"
+        "digital subcarrier multiplexing"
       ],
       "kw_all": [
         "Artificial intelligence",
+        "LLM",
+        "Optical Network",
+        "DSCM",
         "Machine learning",
         "digital subcarrier multiplexing",
         "random forest",
@@ -595,11 +600,13 @@
       "doi": "10.1109/icop69260.2026.11760335",
       "citations": 0,
       "keywords": [
+        "Optical Network",
         "launch power optimization",
         "DP-16QAM",
         "delay constraints"
       ],
       "kw_all": [
+        "Optical Network",
         "launch power optimization",
         "DP-16QAM",
         "delay constraints"
@@ -665,13 +672,16 @@
       "doi": "",
       "citations": 0,
       "keywords": [
+        "Optical Network",
+        "DSCM",
         "data center interconnects",
         "digital subcarrier multiplexing",
         "CAPEX and OPEX reduction",
-        "energy efficiency",
-        "multi-operator networks"
+        "energy efficiency"
       ],
       "kw_all": [
+        "Optical Network",
+        "DSCM",
         "data center interconnects",
         "digital subcarrier multiplexing",
         "CAPEX and OPEX reduction",
@@ -754,13 +764,16 @@
       "doi": "10.23919/ondm68511.2026.11618872",
       "citations": 1,
       "keywords": [
+        "Optical Network",
+        "DSCM",
         "hollow-core fiber",
         "bit error rate",
         "end-to-end delay",
-        "digital subcarrier multiplexing",
-        "coherent transceivers"
+        "digital subcarrier multiplexing"
       ],
       "kw_all": [
+        "Optical Network",
+        "DSCM",
         "hollow-core fiber",
         "bit error rate",
         "end-to-end delay",
@@ -861,13 +874,16 @@
       "doi": "",
       "citations": 0,
       "keywords": [
+        "Optical Network",
+        "DSCM",
         "fronthaul",
         "energy efficiency",
         "digital subcarrier multiplexing",
-        "coherent optical transmission",
-        "DP-16QAM"
+        "coherent optical transmission"
       ],
       "kw_all": [
+        "Optical Network",
+        "DSCM",
         "fronthaul",
         "energy efficiency",
         "digital subcarrier multiplexing",
@@ -930,6 +946,7 @@
       "doi": "10.1364/ofc.2026.w4a.1",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "capacity scaling",
         "spectral efficiency",
         "spatial reuse",
@@ -937,6 +954,7 @@
         "techno-economic analysis"
       ],
       "kw_all": [
+        "Optical Network",
         "capacity scaling",
         "spectral efficiency",
         "spatial reuse",
@@ -992,14 +1010,17 @@
       "doi": "10.1109/jlt.2026.3655186",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "failure prediction",
-        "optical transport networks",
-        "digital twin",
-        "predictive maintenance",
-        "synthetic data generation"
+        "optical transport networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "failure prediction",
         "optical transport networks",
@@ -1095,8 +1116,14 @@
       "type": "conference",
       "doi": "10.1364/eceoc.2026.mo4_p_116",
       "citations": 0,
-      "keywords": [],
-      "kw_all": [],
+      "keywords": [
+        "Optical Network",
+        "Fiber anomaly detection"
+      ],
+      "kw_all": [
+        "Optical Network",
+        "Fiber anomaly detection"
+      ],
       "summary": "We present an integrated SOP-based sensing framework for real-time detection and localization of fiber disturbances in a 31 km live production metro network. The ML classifier achieved 96.2% accuracy, while bidirectional measurements supporting median localization errors below 23 m, enabling controller-assisted alarms and maintenance operations.",
       "date": "2026-01-01",
       "oa": "",
@@ -1183,14 +1210,15 @@
       "citations": 0,
       "keywords": [
         "LLM",
+        "Optical Network",
         "large language models",
         "optical transport networks",
         "network design",
-        "network analysis",
-        "network automation"
+        "network analysis"
       ],
       "kw_all": [
         "LLM",
+        "Optical Network",
         "large language models",
         "optical transport networks",
         "network design",
@@ -1262,14 +1290,16 @@
       "citations": 0,
       "keywords": [
         "LLM",
+        "Optical Network",
+        "GNPy",
         "large language models",
         "digital twin",
-        "optical network design",
-        "network configuration automation",
-        "network planning"
+        "optical network design"
       ],
       "kw_all": [
         "LLM",
+        "Optical Network",
+        "GNPy",
         "large language models",
         "digital twin",
         "optical network design",
@@ -1337,14 +1367,15 @@
       "citations": 0,
       "keywords": [
         "LLM",
+        "Optical Network",
         "large language models",
         "LLM agents",
         "network planning",
-        "network topology generation",
-        "few-shot prompting"
+        "network topology generation"
       ],
       "kw_all": [
         "LLM",
+        "Optical Network",
         "large language models",
         "LLM agents",
         "network planning",
@@ -1415,14 +1446,16 @@
       "citations": 0,
       "keywords": [
         "LLM",
+        "Optical Network",
+        "GNPy",
         "digital twin",
         "optical networks",
-        "large language models",
-        "LLM agents",
-        "natural language interfaces"
+        "large language models"
       ],
       "kw_all": [
         "LLM",
+        "Optical Network",
+        "GNPy",
         "digital twin",
         "optical networks",
         "large language models",
@@ -1483,14 +1516,16 @@
       "doi": "",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "bit error rate prediction",
         "XGBoost",
-        "physical layer impairments",
-        "dynamic routing",
-        "metro-access networks"
+        "physical layer impairments"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "bit error rate prediction",
         "XGBoost",
@@ -1562,15 +1597,18 @@
       "doi": "10.1109/lpt.2026.3678082",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
+        "Fiber anomaly detection",
         "Stokes parameters",
-        "fiber bending",
-        "anomaly detection",
-        "anomaly classification",
-        "noise robustness"
+        "fiber bending"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
+        "Fiber anomaly detection",
         "Stokes parameters",
         "fiber bending",
         "anomaly detection",
@@ -1661,10 +1699,14 @@
       "doi": "",
       "citations": 0,
       "keywords": [
-        "LLM"
+        "LLM",
+        "Optical Network",
+        "GNPy"
       ],
       "kw_all": [
-        "LLM"
+        "LLM",
+        "Optical Network",
+        "GNPy"
       ],
       "summary": "Added from Google Scholar. No abstract available.",
       "date": "2026-01-01",
@@ -1690,6 +1732,7 @@
       "doi": "10.1109/icton71309.2026.11705241",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "delay constraints",
         "transmission quality",
         "functional split",
@@ -1697,6 +1740,7 @@
         "transportation network optimization"
       ],
       "kw_all": [
+        "Optical Network",
         "delay constraints",
         "transmission quality",
         "functional split",
@@ -1772,14 +1816,16 @@
       "doi": "10.23919/ondm68511.2026.11618868",
       "citations": 1,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "metropolitan optical networks",
         "real-time fault detection",
-        "XGBoost",
-        "random forest",
-        "decision tree"
+        "XGBoost"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "metropolitan optical networks",
         "real-time fault detection",
@@ -1877,14 +1923,17 @@
       "doi": "10.1109/lpt.2026.3681516",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "digital twin",
-        "reinforcement learning",
-        "optical networks",
-        "Gaussian noise model",
-        "LSTM"
+        "reinforcement learning"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "digital twin",
         "reinforcement learning",
@@ -1982,10 +2031,12 @@
       "doi": "",
       "citations": 0,
       "keywords": [
+        "Optical Network",
         "subcarrier allocation",
         "coherent optical networks"
       ],
       "kw_all": [
+        "Optical Network",
         "subcarrier allocation",
         "coherent optical networks"
       ],
@@ -2054,6 +2105,7 @@
       "doi": "",
       "citations": 0,
       "keywords": [
+        "Optical Network",
         "subcarrier allocation",
         "software-defined networking",
         "time-varying traffic",
@@ -2061,6 +2113,7 @@
         "throughput"
       ],
       "kw_all": [
+        "Optical Network",
         "subcarrier allocation",
         "software-defined networking",
         "time-varying traffic",
@@ -2131,11 +2184,13 @@
       "doi": "10.1109/lpt.2026.3653136",
       "citations": 4,
       "keywords": [
+        "Optical Network",
         "bit error rate",
         "modulation schemes",
         "physical layer impairments"
       ],
       "kw_all": [
+        "Optical Network",
         "bit error rate",
         "modulation schemes",
         "physical layer impairments"
@@ -2201,11 +2256,13 @@
       "doi": "",
       "citations": 0,
       "keywords": [
+        "Optical Network",
         "transport capacity",
         "single-carrier systems",
         "capacity gain"
       ],
       "kw_all": [
+        "Optical Network",
         "transport capacity",
         "single-carrier systems",
         "capacity gain"
@@ -2282,11 +2339,13 @@
       "doi": "10.1364/jocn.608026",
       "citations": 0,
       "keywords": [
+        "Optical Network",
         "6G",
         "optical networks",
         "statistical capacity"
       ],
       "kw_all": [
+        "Optical Network",
         "6G",
         "optical networks",
         "statistical capacity"
@@ -2372,13 +2431,16 @@
       "doi": "10.1109/netsoft70012.2026.11603470",
       "citations": 0,
       "keywords": [
+        "Optical Network",
+        "DSCM",
         "6G",
         "digital subcarrier multiplexing",
         "energy efficiency",
-        "power consumption",
-        "delay constraints"
+        "power consumption"
       ],
       "kw_all": [
+        "Optical Network",
+        "DSCM",
         "6G",
         "digital subcarrier multiplexing",
         "energy efficiency",
@@ -2479,13 +2541,16 @@
       "doi": "10.1109/ojcoms.2025.3629335",
       "citations": 4,
       "keywords": [
+        "Optical Network",
+        "DSCM",
         "optical transport networks",
         "capacity scaling",
         "coherent transceivers",
-        "multi-band transmission",
-        "space-division multiplexing"
+        "multi-band transmission"
       ],
       "kw_all": [
+        "Optical Network",
+        "DSCM",
         "optical transport networks",
         "capacity scaling",
         "coherent transceivers",
@@ -2557,14 +2622,17 @@
       "citations": 9,
       "keywords": [
         "Artificial intelligence",
+        "LLM",
+        "Optical Network",
+        "Fiber anomaly detection",
         "optical transport networks",
-        "fault prediction",
-        "fault recovery",
-        "polarization sensing",
-        "dense wavelength division multiplexing"
+        "fault prediction"
       ],
       "kw_all": [
         "Artificial intelligence",
+        "LLM",
+        "Optical Network",
+        "Fiber anomaly detection",
         "optical transport networks",
         "fault prediction",
         "fault recovery",
@@ -2654,6 +2722,7 @@
       "doi": "10.1109/icton67126.2025.11125312",
       "citations": 2,
       "keywords": [
+        "Optical Network",
         "network capacity",
         "bit error rate",
         "DP-QPSK",
@@ -2661,6 +2730,7 @@
         "high-order modulation"
       ],
       "kw_all": [
+        "Optical Network",
         "network capacity",
         "bit error rate",
         "DP-QPSK",
@@ -2728,14 +2798,16 @@
       "citations": 5,
       "keywords": [
         "Artificial intelligence",
+        "LLM",
+        "Optical Network",
         "Machine learning",
         "optical fiber fault detection",
-        "SOPA",
-        "machine learning classification",
-        "real-time network monitoring"
+        "SOPA"
       ],
       "kw_all": [
         "Artificial intelligence",
+        "LLM",
+        "Optical Network",
         "Machine learning",
         "optical fiber fault detection",
         "SOPA",
@@ -2836,14 +2908,17 @@
       "doi": "10.23919/softcom66362.2025.11197388",
       "citations": 6,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "digital twin",
-        "erbium-doped fiber amplifier",
-        "binary classification",
-        "LSTM",
-        "optical network planning"
+        "erbium-doped fiber amplifier"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "digital twin",
         "erbium-doped fiber amplifier",
@@ -2936,12 +3011,16 @@
       "doi": "10.1109/cscn67557.2025.11230596",
       "citations": 5,
       "keywords": [
+        "Optical Network",
+        "DSCM",
         "bit error rate",
         "latency",
         "digital subcarrier multiplexing",
         "DP-16QAM"
       ],
       "kw_all": [
+        "Optical Network",
+        "DSCM",
         "bit error rate",
         "latency",
         "digital subcarrier multiplexing",
@@ -3040,15 +3119,18 @@
       "doi": "10.1109/sum65312.2025.11121809",
       "citations": 3,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
+        "Fiber anomaly detection",
         "polarization dynamics",
-        "optical networks",
-        "XGBoost",
-        "fault detection",
-        "physical layer security"
+        "optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
+        "Fiber anomaly detection",
         "polarization dynamics",
         "optical networks",
         "XGBoost",
@@ -3139,14 +3221,17 @@
       "doi": "10.1109/ants66931.2025.11430070",
       "citations": 1,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "digital twin",
-        "optical transport networks",
-        "synthetic data generation",
-        "optical network simulation",
-        "predictive maintenance"
+        "optical transport networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "digital twin",
         "optical transport networks",
@@ -3243,14 +3328,17 @@
       "doi": "10.1109/icmlcn64995.2025.11140450",
       "citations": 8,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "digital twin",
-        "optical networks",
-        "LSTM",
-        "fault classification",
-        "fault severity estimation"
+        "optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "digital twin",
         "optical networks",
@@ -3345,14 +3433,16 @@
       "doi": "10.1109/icmlcn64995.2025.11140455",
       "citations": 13,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "fiber optic systems",
         "anomaly detection",
-        "polarization state",
-        "mechanical stress",
-        "predictive maintenance"
+        "polarization state"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "fiber optic systems",
         "anomaly detection",
@@ -3439,14 +3529,17 @@
       "doi": "10.23919/ondm65745.2025.11029222",
       "citations": 11,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "transfer learning",
-        "digital twin",
-        "failure prediction",
-        "optical amplifiers",
-        "optical networks"
+        "digital twin"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
+        "GNPy",
         "Machine learning",
         "transfer learning",
         "digital twin",
@@ -3545,6 +3638,7 @@
       "doi": "10.23919/softcom66362.2025.11197410",
       "citations": 7,
       "keywords": [
+        "Optical Network",
         "hollow-core fiber",
         "radio access network",
         "metro-access networks",
@@ -3552,6 +3646,7 @@
         "optical transport networks"
       ],
       "kw_all": [
+        "Optical Network",
         "hollow-core fiber",
         "radio access network",
         "metro-access networks",
@@ -3656,15 +3751,18 @@
       "doi": "10.3390/ai6070131",
       "citations": 13,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
+        "Fiber anomaly detection",
         "anomaly detection",
-        "vibration sensing",
-        "eavesdropping",
-        "mechanical perturbation",
-        "noise mitigation"
+        "vibration sensing"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
+        "Fiber anomaly detection",
         "anomaly detection",
         "vibration sensing",
         "eavesdropping",
@@ -3754,13 +3852,16 @@
       "doi": "",
       "citations": 7,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "polarization state",
         "mechanical vibration",
-        "drilling disturbance",
-        "network resilience"
+        "drilling disturbance"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "polarization state",
         "mechanical vibration",
@@ -3845,6 +3946,7 @@
       "doi": "10.1109/sum65312.2025.11121770",
       "citations": 2,
       "keywords": [
+        "Optical Network",
         "bit error rate",
         "metro-access networks",
         "physical impairment",
@@ -3852,6 +3954,7 @@
         "optical network planning"
       ],
       "kw_all": [
+        "Optical Network",
         "bit error rate",
         "metro-access networks",
         "physical impairment",
@@ -3911,13 +4014,16 @@
       "doi": "10.1109/honet67928.2025.11318492",
       "citations": 0,
       "keywords": [
+        "Optical Network",
+        "DSCM",
         "bit error rate",
         "coherent transceivers",
         "DP-QPSK",
-        "DP-16QAM",
-        "high-order modulation"
+        "DP-16QAM"
       ],
       "kw_all": [
+        "Optical Network",
+        "DSCM",
         "bit error rate",
         "coherent transceivers",
         "DP-QPSK",
@@ -3980,6 +4086,7 @@
       "doi": "10.1109/icton62926.2024.10647953",
       "citations": 5,
       "keywords": [
+        "Optical Network",
         "waveband switching",
         "wavelength switching",
         "optical cross-connect",
@@ -3987,6 +4094,7 @@
         "6G"
       ],
       "kw_all": [
+        "Optical Network",
         "waveband switching",
         "wavelength switching",
         "optical cross-connect",
@@ -4063,6 +4171,7 @@
       "doi": "10.1109/globecom52923.2024.10901718",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "waveband switching",
         "wavelength switching",
         "optical cross-connect",
@@ -4070,6 +4179,7 @@
         "wavelength routing"
       ],
       "kw_all": [
+        "Optical Network",
         "waveband switching",
         "wavelength switching",
         "optical cross-connect",
@@ -4134,11 +4244,13 @@
       "doi": "",
       "citations": 0,
       "keywords": [
+        "Optical Network",
         "optical transport",
         "PIC",
         "optical switching systems"
       ],
       "kw_all": [
+        "Optical Network",
         "optical transport",
         "PIC",
         "optical switching systems"
@@ -4174,6 +4286,7 @@
       "doi": "10.1117/12.3000994",
       "citations": 0,
       "keywords": [
+        "Optical Network",
         "wavelength-selective switching",
         "optical transport networks",
         "6G",
@@ -4181,6 +4294,7 @@
         "bandwidth utilization"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength-selective switching",
         "optical transport networks",
         "6G",
@@ -4257,6 +4371,7 @@
       "doi": "10.1109/icton59386.2023.10207198",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "multi-band transmission",
@@ -4264,6 +4379,7 @@
         "optical transport networks"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "multi-band transmission",
@@ -4335,14 +4451,16 @@
       "doi": "10.1364/cleo_at.2023.jw2a.141",
       "citations": 3,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "stationary behavior",
-        "dynamic behavior",
-        "light-current characteristics",
-        "circuit simulation"
+        "dynamic behavior"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "stationary behavior",
@@ -4415,14 +4533,16 @@
       "doi": "",
       "citations": 1,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "machine learning models",
-        "light-current characteristics",
-        "dynamic behavior",
-        "stationary behavior"
+        "light-current characteristics"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "machine learning models",
@@ -4494,6 +4614,7 @@
       "doi": "10.1364/oe.498596",
       "citations": 9,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "software-defined optical networks",
@@ -4501,6 +4622,7 @@
         "data center networks"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "software-defined optical networks",
@@ -4566,11 +4688,13 @@
       "doi": "10.1109/psc57974.2023.10297184",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "optical network capacity"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "optical network capacity"
@@ -4633,14 +4757,16 @@
       "doi": "10.1109/icton59386.2023.10207173",
       "citations": 3,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "optical networks",
         "active learning (machine learning)",
-        "transfer learning",
-        "limited training data",
-        "domain adaptation"
+        "transfer learning"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "optical networks",
         "active learning (machine learning)",
@@ -4700,14 +4826,16 @@
       "doi": "10.1109/icton59386.2023.10207383",
       "citations": 5,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "knowledge distillation",
         "model compression",
-        "quality of transmission estimation",
-        "lightpath establishment",
-        "optical networks"
+        "quality of transmission estimation"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "knowledge distillation",
         "model compression",
@@ -4765,14 +4893,16 @@
       "doi": "10.1364/cleo_si.2023.sth4h.2",
       "citations": 3,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "fabrication uncertainty",
         "machine learning prediction",
-        "integrated optical filters",
-        "PIC",
-        "ring resonator"
+        "integrated optical filters"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "fabrication uncertainty",
         "machine learning prediction",
@@ -4845,12 +4975,14 @@
       "doi": "10.1109/sum57928.2023.10224483",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "S+C+L band",
         "data center optical interconnects"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "S+C+L band",
@@ -4921,6 +5053,7 @@
       "doi": "10.1109/psc57974.2023.10297220",
       "citations": 0,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "data center interconnects",
@@ -4928,6 +5061,7 @@
         "channel assignment"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "data center interconnects",
@@ -4999,6 +5133,7 @@
       "doi": "10.1117/12.2648948",
       "citations": 2,
       "keywords": [
+        "Optical Network",
         "ROADM",
         "PIC",
         "frequency response",
@@ -5006,6 +5141,7 @@
         "network performance evaluation"
       ],
       "kw_all": [
+        "Optical Network",
         "ROADM",
         "PIC",
         "frequency response",
@@ -5078,6 +5214,7 @@
       "doi": "10.1364/jocn.489754",
       "citations": 12,
       "keywords": [
+        "Optical Network",
         "ROADM",
         "wavelength selective switch",
         "PIC",
@@ -5085,6 +5222,7 @@
         "network capacity expansion"
       ],
       "kw_all": [
+        "Optical Network",
         "ROADM",
         "wavelength selective switch",
         "PIC",
@@ -5160,6 +5298,7 @@
       "doi": "10.1117/12.2650360",
       "citations": 2,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "photonic integration",
         "S+C+L band",
@@ -5167,6 +5306,7 @@
         "optical switching"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "photonic integration",
         "S+C+L band",
@@ -5232,14 +5372,16 @@
       "doi": "10.1117/12.2650220",
       "citations": 3,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "parameter extraction",
-        "deep neural network",
-        "light-current characteristics",
-        "temperature-dependent parameters"
+        "deep neural network"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "parameter extraction",
@@ -5306,13 +5448,16 @@
       "doi": "10.1109/acp55869.2022.10088942",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "data-driven modeling",
-        "light-current characteristics",
-        "small-signal modulation response"
+        "light-current characteristics"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "data-driven modeling",
@@ -5378,14 +5523,16 @@
       "doi": "10.1109/ipc53466.2022.9975585",
       "citations": 3,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "parameter extraction",
-        "light-current characteristics",
-        "small-signal modulation response",
-        "temperature dependence"
+        "light-current characteristics"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "parameter extraction",
@@ -5452,13 +5599,16 @@
       "doi": "10.1364/iprsn.2022.im3b.4",
       "citations": 3,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "ring resonator filter",
         "filter characterization",
-        "bandpass filter",
-        "spectral efficiency"
+        "bandpass filter"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "ring resonator filter",
         "filter characterization",
@@ -5524,14 +5674,16 @@
       "doi": "10.23919/softcom55329.2022.9911489",
       "citations": 4,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "light-current characteristics",
-        "small-signal modulation response",
-        "temperature dependence",
-        "laser modeling"
+        "small-signal modulation response"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "vertical-cavity surface-emitting lasers",
         "light-current characteristics",
@@ -5598,6 +5750,7 @@
       "doi": "10.23919/oecc/psc53152.2022.9850062",
       "citations": 7,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "silicon photonics",
         "S+C+L band",
@@ -5605,6 +5758,7 @@
         "bit error rate"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "silicon photonics",
         "S+C+L band",
@@ -5697,14 +5851,16 @@
       "doi": "10.1109/acp55869.2022.10089124",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "transmission quality",
         "random forest",
-        "multi-label classification",
-        "synthetic data generation",
-        "centralized controller"
+        "multi-label classification"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "transmission quality",
         "random forest",
@@ -5787,6 +5943,7 @@
       "doi": "10.1109/globecom48099.2022.10001201",
       "citations": 14,
       "keywords": [
+        "Optical Network",
         "ROADM",
         "wavelength selective switch",
         "PIC",
@@ -5794,6 +5951,7 @@
         "wavelength division multiplexing"
       ],
       "kw_all": [
+        "Optical Network",
         "ROADM",
         "wavelength selective switch",
         "PIC",
@@ -5865,6 +6023,7 @@
       "doi": "10.1109/ipc53466.2022.9975622",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "ROADM",
@@ -5872,6 +6031,7 @@
         "network capacity"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "ROADM",
@@ -5944,6 +6104,7 @@
       "doi": "10.23919/softcom55329.2022.9911234",
       "citations": 6,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "ROADM",
         "PIC",
@@ -5951,6 +6112,7 @@
         "optical network capacity"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "ROADM",
         "PIC",
@@ -6026,12 +6188,14 @@
       "doi": "10.1109/sum53465.2022.9858267",
       "citations": 3,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "ultra-wideband",
         "reconfigurable optical switching"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "ultra-wideband",
@@ -6096,14 +6260,16 @@
       "doi": "10.1117/12.2608595",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "Benes network",
         "optical networks",
-        "optical signal-to-noise ratio",
-        "machine learning prediction",
-        "optical routing"
+        "optical signal-to-noise ratio"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "Benes network",
         "optical networks",
@@ -6170,12 +6336,14 @@
       "doi": "10.1109/sum53465.2022.9858263",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "S+C+L band",
         "low insertion loss"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "PIC",
         "S+C+L band",
@@ -6240,12 +6408,16 @@
       "doi": "10.1109/acp55869.2022.10088462",
       "citations": 2,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "transfer learning",
         "generalized signal-to-noise ratio"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "transfer learning",
@@ -6310,6 +6482,7 @@
       "doi": "10.1364/optcon.428567",
       "citations": 7,
       "keywords": [
+        "Optical Network",
         "software-defined networking",
         "PIC",
         "silicon photonics",
@@ -6317,6 +6490,7 @@
         "optical network management"
       ],
       "kw_all": [
+        "Optical Network",
         "software-defined networking",
         "PIC",
         "silicon photonics",
@@ -6383,6 +6557,7 @@
       "doi": "10.1109/acp55869.2022.10088842",
       "citations": 2,
       "keywords": [
+        "Optical Network",
         "wavelength selective switch",
         "ROADM",
         "PIC",
@@ -6390,6 +6565,7 @@
         "wavelength division multiplexing"
       ],
       "kw_all": [
+        "Optical Network",
         "wavelength selective switch",
         "ROADM",
         "PIC",
@@ -6459,13 +6635,16 @@
       "doi": "10.1109/sum53465.2022.9858280",
       "citations": 2,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "transfer learning",
-        "optical networks",
-        "network cognition"
+        "optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "transfer learning",
@@ -6525,14 +6704,16 @@
       "doi": "10.23919/ondm54585.2022.9782856",
       "citations": 12,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "transfer learning",
-        "generalized signal-to-noise ratio",
-        "margin reduction",
-        "synthetic data generation"
+        "generalized signal-to-noise ratio"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "transfer learning",
@@ -6594,12 +6775,16 @@
       "doi": "10.1109/sum48717.2021.9505780",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "autonomous management",
         "machine learning agents",
         "data-driven control"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "autonomous management",
         "machine learning agents",
@@ -6664,13 +6849,16 @@
       "doi": "10.1364/networks.2021.nef2b.2",
       "citations": 5,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "integrated optical switches",
         "artificial neural networks",
-        "software-defined networking",
-        "real-time control"
+        "software-defined networking"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "integrated optical switches",
         "artificial neural networks",
@@ -6736,14 +6924,16 @@
       "doi": "10.1109/ojcoms.2021.3085678",
       "citations": 16,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "photonic switches",
         "PIC",
-        "Benes network",
-        "wavelength division multiplexing",
-        "optical networking"
+        "Benes network"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "photonic switches",
         "PIC",
@@ -6810,12 +7000,16 @@
       "doi": "10.1364/acpc.2021.t4a.163",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "software-defined networking",
         "autonomous control",
         "data-driven control"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "software-defined networking",
         "autonomous control",
@@ -6879,14 +7073,16 @@
       "doi": "10.1002/mop.32996",
       "citations": 20,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "convolutional neural networks",
         "generalized signal-to-noise ratio",
-        "elastic optical networks",
-        "software-defined networking",
-        "network design parameters"
+        "elastic optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "convolutional neural networks",
         "generalized signal-to-noise ratio",
@@ -6950,14 +7146,16 @@
       "doi": "10.1117/1.oe.60.12.125106",
       "citations": 6,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "lightpath establishment",
-        "generalized signal-to-noise ratio",
-        "elastic optical networks",
-        "artificial neural networks"
+        "generalized signal-to-noise ratio"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "lightpath establishment",
@@ -7036,14 +7234,16 @@
       "doi": "10.1109/icecce52056.2021.9514154",
       "citations": 6,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "generalized signal-to-noise ratio",
-        "machine learning models",
-        "synthetic data generation",
-        "backbone networks"
+        "machine learning models"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "quality of transmission estimation",
         "generalized signal-to-noise ratio",
@@ -7120,6 +7320,7 @@
       "doi": "10.23919/ondm51796.2021.9492380",
       "citations": 5,
       "keywords": [
+        "Optical Network",
         "virtual network embedding",
         "impairment-aware routing",
         "optical networks",
@@ -7127,6 +7328,7 @@
         "nonlinear impairments"
       ],
       "kw_all": [
+        "Optical Network",
         "virtual network embedding",
         "impairment-aware routing",
         "optical networks",
@@ -7190,14 +7392,16 @@
       "doi": "10.1364/jocn.409538",
       "citations": 52,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "generalized signal-to-noise ratio",
         "transfer learning",
-        "all-optical networks",
-        "amplified spontaneous emission noise",
-        "nonlinear interference"
+        "all-optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "generalized signal-to-noise ratio",
         "transfer learning",
@@ -7254,11 +7458,15 @@
       "doi": "10.1364/cleo_at.2021.jtu3a.32",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "real-time control",
         "optical interconnects"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "real-time control",
         "optical interconnects"
@@ -7322,13 +7530,16 @@
       "doi": "10.1364/psc.2021.m2a.3",
       "citations": 3,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "transmission quality",
         "photonic switches",
-        "software-defined networking",
-        "data-driven modeling"
+        "software-defined networking"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "transmission quality",
         "photonic switches",
@@ -7394,14 +7605,16 @@
       "doi": "10.1109/globecom46510.2021.9685878",
       "citations": 2,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "software-defined networking",
         "elastic optical networks",
-        "optical switches",
-        "transmission quality",
-        "machine learning models"
+        "optical switches"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "software-defined networking",
         "elastic optical networks",
@@ -7468,12 +7681,16 @@
       "doi": "10.1364/acpc.2021.t2b.2",
       "citations": 2,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "transmission quality",
         "optical switches",
         "optical signal-to-noise ratio"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "transmission quality",
         "optical switches",
@@ -7540,13 +7757,16 @@
       "doi": "10.1117/12.2578770",
       "citations": 16,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "PIC",
         "data-driven research",
-        "software-defined networking",
-        "Benes network"
+        "software-defined networking"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "PIC",
         "data-driven research",
@@ -7621,6 +7841,7 @@
       "doi": "10.1109/icecce52056.2021.9514112",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "elastic optical networks",
         "routing and spectrum assignment",
         "software-defined networking",
@@ -7628,6 +7849,7 @@
         "heuristic algorithms"
       ],
       "kw_all": [
+        "Optical Network",
         "elastic optical networks",
         "routing and spectrum assignment",
         "software-defined networking",
@@ -7688,13 +7910,16 @@
       "doi": "10.1364/oe.442194",
       "citations": 17,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "PIC",
         "synthetic training data",
-        "all-optical networks",
-        "reconfigurable optical networks"
+        "all-optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "PIC",
         "synthetic training data",
@@ -7759,6 +7984,7 @@
       "doi": "10.1109/sum48717.2021.9505961",
       "citations": 1,
       "keywords": [
+        "Optical Network",
         "routing and spectrum assignment",
         "elastic optical networks",
         "heuristic algorithms",
@@ -7766,6 +7992,7 @@
         "spectrum allocation"
       ],
       "kw_all": [
+        "Optical Network",
         "routing and spectrum assignment",
         "elastic optical networks",
         "heuristic algorithms",
@@ -7826,13 +8053,16 @@
       "doi": "",
       "citations": 1,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "software-defined networking",
         "autonomous network management",
-        "optical networks",
-        "real-time network control"
+        "optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "software-defined networking",
         "autonomous network management",
@@ -7901,13 +8131,16 @@
       "doi": "10.1109/ipc47351.2020.9252247",
       "citations": 9,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "PIC",
         "impairment assessment",
-        "switching devices",
-        "photonic design"
+        "switching devices"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "PIC",
         "impairment assessment",
@@ -7987,6 +8220,7 @@
       "doi": "10.1117/1.oe.59.1.016115",
       "citations": 11,
       "keywords": [
+        "Optical Network",
         "data center placement",
         "power consumption",
         "elastic optical networks",
@@ -7994,6 +8228,7 @@
         "heuristic optimization"
       ],
       "kw_all": [
+        "Optical Network",
         "data center placement",
         "power consumption",
         "elastic optical networks",
@@ -8057,13 +8292,16 @@
       "doi": "10.1109/icton51198.2020.9248693",
       "citations": 15,
       "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "PIC",
         "network disaggregation",
-        "all-optical networks",
-        "software-defined networking"
+        "all-optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
         "Machine learning",
         "PIC",
         "network disaggregation",
@@ -8142,10 +8380,12 @@
       "doi": "10.1109/netsoft48620.2020.9165462",
       "citations": 9,
       "keywords": [
+        "Optical Network",
         "elastic optical networks",
         "software-defined networking"
       ],
       "kw_all": [
+        "Optical Network",
         "elastic optical networks",
         "software-defined networking"
       ],
@@ -8218,18 +8458,18 @@
       "2026": 25
     },
     "keywords": [
+      "Optical Network",
+      "Artificial intelligence",
       "Machine learning",
       "PIC",
       "wavelength selective switch",
       "software-defined networking",
       "optical networks",
       "optical transport networks",
+      "GNPy",
+      "LLM",
       "digital twin",
-      "bit error rate",
-      "elastic optical networks",
-      "ROADM",
-      "generalized signal-to-noise ratio",
-      "transfer learning"
+      "DSCM"
     ],
     "scholar_totals": {
       "cites": 434,
