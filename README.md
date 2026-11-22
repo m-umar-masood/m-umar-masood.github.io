@@ -142,6 +142,7 @@ Optical Transport, Multi-band, ROADM/WSS, Network Planning, SOP Monitoring, Fibe
 - [Networking Analysis of Photonics Integrated Multiband WSS Based ROADM Architecture](https://doi.org/10.23919/softcom55329.2022.9911234). *SoftCOM*, 2022.
 - [Novel Design and Operation of Photonic- integrated WSS for Ultra-wideband Applications](https://doi.org/10.1109/sum53465.2022.9858267). *IEEE Photonics Society Summer Topicals*, 2022.
 - [Optimal control of Beneš optical networks assisted by machine learning](https://doi.org/10.1117/12.2608595). *SPIE Photonics West*, 2022.
+- [Optimized management of ultra-wideband photonics switching systems assisted by machine learning](https://doi.org/10.1364/oe.442194). *Optics Express*, 2022.
 - [Performance Analysis of Novel Multi-band Photonic-integrated WSS Operated on 400ZR](https://doi.org/10.1109/sum53465.2022.9858263). *IEEE Photonics Society Summer Topicals*, 2022.
 - [Performance Analysis of Transfer-learning Approaches for QoT Estimation of Network Operating with 400ZR](https://doi.org/10.1109/acp55869.2022.10088462). *ACP*, 2022.
 - [Performance evaluation of data-driven techniques for the softwarized and agnostic management of an N×N photonic switch](https://doi.org/10.1364/optcon.428567). *Optics Continuum*, 2022.
@@ -163,7 +164,6 @@ Optical Transport, Multi-band, ROADM/WSS, Network Planning, SOP Monitoring, Fibe
 - [Machine learning Assisted Accurate Estimation of QoT Impairments of Photonics Switching System on 400ZR](https://doi.org/10.1364/acpc.2021.t2b.2). *ACP*, 2021.
 - [Machine-learning-aided abstraction of photonic integrated circuits in software-defined optical transport](https://doi.org/10.1117/12.2578770). *SPIE Photonics West*, 2021.
 - [Modeling Off-line Routing and Spectrum Allocation Problem in Elastic Optical Network](https://doi.org/10.1109/icecce52056.2021.9514112). *ICECCE*, 2021.
-- [Optimized management of ultra-wideband photonics switching systems assisted by machine learning](https://doi.org/10.1364/oe.442194). *Optics Express*, 2021.
 - [Routing and Spectrum Allocation Heuristic for Sliced Elastic Optical Network System](https://doi.org/10.1109/sum48717.2021.9505961). *IEEE Photonics Society Summer Topicals*, 2021.
 - Softwarized and Autonomous Management of Photonic Switching Systems Using Machine Learning. *Preprints*, 2021.
 - [Effectiveness of Machine Learning in Assessing QoT Impairments of Photonics Integrated Circuits to Reduce System Margin](https://doi.org/10.1109/ipc47351.2020.9252247). *IEEE Photonics Conference (IPC)*, 2020.

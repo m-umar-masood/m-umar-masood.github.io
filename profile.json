@@ -25,6 +25,11 @@
         "text": "Google Scholar"
       },
       {
+        "name": "Website",
+        "url": "https://m-umar-masood.github.io/",
+        "text": "m-umar-masood.github.io"
+      },
+      {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/muhammad-umar-masood-553769135/?isSelfProfile=true",
         "text": "linkedin.com/in/muhammad-umar-masood-553769135"
@@ -613,7 +618,7 @@
       ],
       "summary": "Converged metro–access optical networks for 6G x- haul exhibit per-leaf access-loss variations among radio units (RUs), causing non-uniform received optical power at the splitter under conventional uniform launch power provisioning. This work investigates access-aware Tx-power optimization for RAN fronthaul over a realistic converged metro–access topology with multiple RUs, using an experimentally characterized 400 Gb/s DP-16QAM Phoenix DCO whitebox transceiver. Three launch- power provisioning strategies are evaluated under joint BER and 3GPP functional split 7.2 latency constraints: Uniform Launch Power (ULP), Per-leaf Adaptive (PLA), and Conservative Provisioning (CP).",
       "date": "2026-06-01",
-      "oa": "https://doi.org/10.1109/icop69260.2026.11760335",
+      "oa": "https://iris.polito.it/bitstream/11583/3015550/1/Access-Aware_Launch_Power_Optimization_for_RAN_Fronthaul_in_Converged_Metro-Access_Optical_Networks_preprint.pdf",
       "aff": [
         [
           "Ahtisham Ali",
@@ -1117,12 +1122,22 @@
       "doi": "10.1364/eceoc.2026.mo4_p_116",
       "citations": 0,
       "keywords": [
+        "Artificial intelligence",
         "Optical Network",
-        "Fiber anomaly detection"
+        "Machine learning",
+        "Fiber anomaly detection",
+        "integrated sensing and communication",
+        "metropolitan optical networks"
       ],
       "kw_all": [
+        "Artificial intelligence",
         "Optical Network",
-        "Fiber anomaly detection"
+        "Machine learning",
+        "Fiber anomaly detection",
+        "integrated sensing and communication",
+        "metropolitan optical networks",
+        "machine learning classification",
+        "network maintenance"
       ],
       "summary": "We present an integrated SOP-based sensing framework for real-time detection and localization of fiber disturbances in a 31 km live production metro network. The ML classifier achieved 96.2% accuracy, while bidirectional measurements supporting median localization errors below 23 m, enabling controller-assisted alarms and maintenance operations.",
       "date": "2026-01-01",
@@ -1308,7 +1323,7 @@
       ],
       "summary": "We present an LLM-assisted Digital Twin that automates optical network design and configuration from operator intent, delivering rapid planning and accurate QoT evaluation for next-generation ONaaS while minimizing reliance on detailed physical-layer expertise.",
       "date": "2026-01-01",
-      "oa": "",
+      "oa": "https://opg.optica.org/abstract.cfm?uri=networks-2026-NeTu1C.3&origin=search",
       "aff": [
         [
           "Imran Chowdhury Dipto",
@@ -1332,12 +1347,12 @@
         ],
         [
           "João Pedro",
-          "",
-          ""
+          "Nokia (Portugal)",
+          "PT"
         ],
         [
           "Antonio Napoli",
-          "ADVA Optical Networking (Germany)",
+          "Nokia (Germany)",
           "DE"
         ],
         [
@@ -4630,7 +4645,7 @@
         "data center networks"
       ],
       "summary": "Today, optical transport and data center networks extensively utilize photonic integrated systems due to their large bandwidth and a high degree of reconfigurability. In addition to these properties, photonic integrated-based systems can deliver an overall low fabrication cost, a small footprint, and low power consumption. In this perspective, we present a modular photonic integrated multi-band wavelength selective switch (WSS) capable of managing a wide spectrum, covering the three S+C+L bands, and potentially scalable to larger numbers of output fibers and routed channels.",
-      "date": "2023-10-03",
+      "date": "2023-10-16",
       "oa": "https://doi.org/10.1364/oe.498596",
       "aff": [
         [
@@ -5230,7 +5245,7 @@
         "network capacity expansion"
       ],
       "summary": "The capacity of the optical transport network must be expanded to support the increasing demand due to bandwidth-intensive applications. Multi-band transmission solutions can achieve this goal by exploiting the low-loss optical spectrum windows while maintaining the same existing fiber infrastructure, increasing the network’s capacity, and minimizing the operator capital expenditure (CAPEX) by limiting the need for a new fiber deployment. In the context of multi-band transmission, this work proposes a novel reconfigurable optical add–drop multiplexer (ROADM) architecture using a modular photonic integrated multi-band wavelength selective switch (WSS) that operates over multi-bands (S + C + L",
-      "date": "2023-06-27",
+      "date": "2023-09-12",
       "oa": "https://doi.org/10.1364/jocn.489754",
       "aff": [
         [
@@ -6280,6 +6295,81 @@
       "summary": "Beneš networks represent an excellent solution for the routing of optical telecom signals in integrated, fully reconfigurable networks because of their limited number of elementary 2x2 crossbar switches and their nonblocking properties. Various solutions have been proposed to determine a proper Control State (CS) providing the required permutation of the input channels; since for a particular permutation, the choice is not unique, the number of cross-points has often been used to estimate the cost of the routing operation. This work presents an advanced version of this approach: we deterministically estimate all (or a reasonably large number of) the CSs corresponding to the permutation reque",
       "date": "2022-02-17",
       "oa": "https://iris.polito.it/bitstream/11583/2958548/5/Khan-Optimal.pdf",
+      "aff": [
+        [
+          "Ihtesham Khan",
+          "Politecnico di Torino",
+          "IT"
+        ],
+        [
+          "Lorenzo Tunesi",
+          "Politecnico di Torino",
+          "IT"
+        ],
+        [
+          "Muhammad Umar Masood",
+          "Politecnico di Torino",
+          "IT"
+        ],
+        [
+          "Enrico Ghillino",
+          "Synopsys (United States)",
+          "US"
+        ],
+        [
+          "Paolo Bardella",
+          "Politecnico di Torino",
+          "IT"
+        ],
+        [
+          "Andrea Carena",
+          "Politecnico di Torino",
+          "IT"
+        ],
+        [
+          "Vittorio Curri",
+          "Politecnico di Torino",
+          "IT"
+        ]
+      ]
+    },
+    {
+      "id": "W4200367076",
+      "title": "Optimized management of ultra-wideband photonics switching systems assisted by machine learning",
+      "authors": [
+        "Ihtesham Khan",
+        "Lorenzo Tunesi",
+        "Muhammad Umar Masood",
+        "Enrico Ghillino",
+        "Paolo Bardella",
+        "Andrea Carena",
+        "Vittorio Curri"
+      ],
+      "venue": "Optics Express",
+      "year": 2022,
+      "type": "journal",
+      "doi": "10.1364/oe.442194",
+      "citations": 17,
+      "keywords": [
+        "Artificial intelligence",
+        "Optical Network",
+        "Machine learning",
+        "PIC",
+        "synthetic training data",
+        "all-optical networks"
+      ],
+      "kw_all": [
+        "Artificial intelligence",
+        "Optical Network",
+        "Machine learning",
+        "PIC",
+        "synthetic training data",
+        "all-optical networks",
+        "reconfigurable optical networks"
+      ],
+      "summary": "Recent years have seen an unprecedented growth of data traffic driven by a continuous increase of connected devices and new applications. This trend will tend to saturate transparent optical networks that are the backbone of the whole telecommunication infrastructure. To improve the capacity of already deployed network infrastructures and maximize operators CAPEX returns, band-division multiplexing (BDM) has emerged as a promising solution to expand the fiber bandwidth beyond the existing C-band.",
+      "date": "2022-01-24",
+      "oa": "https://doi.org/10.1364/oe.442194",
       "aff": [
         [
           "Ihtesham Khan",
@@ -7893,81 +7983,6 @@
       ]
     },
     {
-      "id": "W4200367076",
-      "title": "Optimized management of ultra-wideband photonics switching systems assisted by machine learning",
-      "authors": [
-        "Ihtesham Khan",
-        "Lorenzo Tunesi",
-        "Muhammad Umar Masood",
-        "Enrico Ghillino",
-        "Paolo Bardella",
-        "Andrea Carena",
-        "Vittorio Curri"
-      ],
-      "venue": "Optics Express",
-      "year": 2021,
-      "type": "journal",
-      "doi": "10.1364/oe.442194",
-      "citations": 17,
-      "keywords": [
-        "Artificial intelligence",
-        "Optical Network",
-        "Machine learning",
-        "PIC",
-        "synthetic training data",
-        "all-optical networks"
-      ],
-      "kw_all": [
-        "Artificial intelligence",
-        "Optical Network",
-        "Machine learning",
-        "PIC",
-        "synthetic training data",
-        "all-optical networks",
-        "reconfigurable optical networks"
-      ],
-      "summary": "Recent years have seen an unprecedented growth of data traffic driven by a continuous increase of connected devices and new applications. This trend will tend to saturate transparent optical networks that are the backbone of the whole telecommunication infrastructure. To improve the capacity of already deployed network infrastructures and maximize operators CAPEX returns, band-division multiplexing (BDM) has emerged as a promising solution to expand the fiber bandwidth beyond the existing C-band.",
-      "date": "2021-12-29",
-      "oa": "https://doi.org/10.1364/oe.442194",
-      "aff": [
-        [
-          "Ihtesham Khan",
-          "Politecnico di Torino",
-          "IT"
-        ],
-        [
-          "Lorenzo Tunesi",
-          "Politecnico di Torino",
-          "IT"
-        ],
-        [
-          "Muhammad Umar Masood",
-          "Politecnico di Torino",
-          "IT"
-        ],
-        [
-          "Enrico Ghillino",
-          "Synopsys (United States)",
-          "US"
-        ],
-        [
-          "Paolo Bardella",
-          "Politecnico di Torino",
-          "IT"
-        ],
-        [
-          "Andrea Carena",
-          "Politecnico di Torino",
-          "IT"
-        ],
-        [
-          "Vittorio Curri",
-          "Politecnico di Torino",
-          "IT"
-        ]
-      ]
-    },
-    {
       "id": "W3193686549",
       "title": "Routing and Spectrum Allocation Heuristic for Sliced Elastic Optical Network System",
       "authors": [
@@ -8450,8 +8465,8 @@
     "per_year": {
       "2017": 1,
       "2020": 4,
-      "2021": 18,
-      "2022": 18,
+      "2021": 17,
+      "2022": 19,
       "2023": 14,
       "2024": 4,
       "2025": 16,
@@ -8486,12 +8501,12 @@
     },
     "cites_per_year": {
       "2020": 1,
-      "2021": 39,
-      "2022": 78,
+      "2021": 36,
+      "2022": 81,
       "2023": 73,
-      "2024": 98,
+      "2024": 97,
       "2025": 100,
-      "2026": 140
+      "2026": 146
     }
   }
 }
