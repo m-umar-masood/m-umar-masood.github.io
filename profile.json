@@ -1,6 +1,6 @@
 {
   "name": "Muhammad Umar Masood",
-  "updated": "2026-11-22",
+  "updated": "2026-11-24",
   "profile": {
     "name_suffix": "(PhD)",
     "headline": "Postdoctoral Researcher – AI-driven, resilient optical networks | Multi-band transport | Fiber sensing & fault detection",
@@ -13,11 +13,6 @@
         "name": "ORCID",
         "url": "https://orcid.org/0000-0002-5349-6199",
         "text": "orcid.org/0000-0002-5349-6199"
-      },
-      {
-        "name": "IEEE member",
-        "url": "",
-        "text": "97497721"
       },
       {
         "name": "Google Scholar",
@@ -319,6 +314,19 @@
             "dates": "2024",
             "title": "Best PhD. Thesis Award",
             "sub": "by IEEE Photonics Society (Italian chapter)",
+            "lines": [],
+            "details": ""
+          }
+        ]
+      },
+      {
+        "key": "memberships",
+        "label": "Memberships",
+        "items": [
+          {
+            "dates": "",
+            "title": "IEEE",
+            "sub": "",
             "lines": [],
             "details": ""
           }
