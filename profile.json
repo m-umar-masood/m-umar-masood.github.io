@@ -1,6 +1,6 @@
 {
   "name": "Muhammad Umar Masood",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "profile": {
     "name_suffix": "(PhD)",
     "headline": "Postdoctoral Researcher – AI-driven, resilient optical networks | Multi-band transport | Fiber sensing & fault detection",
@@ -4284,8 +4284,8 @@
       "aff": [
         [
           "Muhammad Umar Masood",
-          "",
-          ""
+          "Politecnico di Torino",
+          "IT"
         ]
       ]
     },
@@ -7508,7 +7508,7 @@
         "nonlinear interference"
       ],
       "summary": "Precise computation of the quality of transmission (QoT) of lightpaths (LPs) in transparent optical networks has techno-economic importance for any network operator. The QoT metric of LPs is defined by the generalized signal-to-noise ratio (GSNR), which includes the effects of both amplified spontaneous emission noise and nonlinear interference accumulation. Generally, the physical layer of a network is characterized by nominal values provided by vendors for the operational parameters of each network element (NE).",
-      "date": "2021-01-13",
+      "date": "2021-02-10",
       "oa": "https://iris.polito.it/bitstream/11583/2870294/1/409538.pdf",
       "aff": [
         [
@@ -8509,9 +8509,9 @@
     },
     "cites_per_year": {
       "2020": 1,
-      "2021": 36,
-      "2022": 81,
-      "2023": 73,
+      "2021": 34,
+      "2022": 82,
+      "2023": 74,
       "2024": 97,
       "2025": 100,
       "2026": 146
