@@ -1,6 +1,6 @@
 # Muhammad Umar Masood
 
-> [Handled by ActaDesk.app (founder)](https://actadeskapp.com)
+> [Handled by ActaDesk.app - app that I made for researchers ->](https://actadeskapp.com)
 
 Postdoctoral researcher · DET · Politecnico di Torino
 
@@ -178,4 +178,4 @@ Optical Transport, Multi-band, ROADM/WSS, Network Planning, SOP Monitoring, Fibe
 - [Smart Provisioning of Sliceable Bandwidth Variable Transponders in Elastic Optical Networks](https://doi.org/10.1109/netsoft48620.2020.9165462). *IEEE NetSoft*, 2020.
 - Performance Analysis of Sliceable Bandwidth Variable Transponders (SBVTs) for EON. *Theses*, 2017.
 
-_Updated 2026-11-26. Handled by ActaDesk.app (founder)._
+_Updated 2026-11-26. Handled by ActaDesk.app - app that I made for researchers ->._

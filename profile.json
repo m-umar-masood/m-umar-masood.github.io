@@ -374,7 +374,7 @@
       }
     ]
   },
-  "photo": null,
+  "photo": true,
   "papers": [
     {
       "id": "W7215057020",
