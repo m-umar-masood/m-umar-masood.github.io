@@ -1,0 +1,4 @@
+# ActaDesk
+User-agent: *
+Allow: /
+Sitemap: https://m-umar-masood.github.io/sitemap.xml
