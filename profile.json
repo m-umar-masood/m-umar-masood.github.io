@@ -1,6 +1,6 @@
 {
   "name": "Muhammad Umar Masood",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "profile": {
     "name_suffix": "(PhD)",
     "headline": "Postdoctoral Researcher – AI-driven, resilient optical networks | Multi-band transport | Fiber sensing & fault detection",
@@ -374,7 +374,7 @@
       }
     ]
   },
-  "photo": true,
+  "photo": null,
   "papers": [
     {
       "id": "W7215057020",
@@ -8486,13 +8486,13 @@
       "Machine learning",
       "PIC",
       "wavelength selective switch",
-      "software-defined networking",
       "optical networks",
-      "optical transport networks",
+      "software-defined networking",
       "GNPy",
+      "optical transport networks",
       "LLM",
-      "digital twin",
-      "DSCM"
+      "DSCM",
+      "digital twin"
     ],
     "scholar_totals": {
       "cites": 434,
@@ -8514,7 +8514,7 @@
       "2023": 74,
       "2024": 97,
       "2025": 100,
-      "2026": 146
+      "2026": 147
     }
   }
 }
